@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manikanta Baratam
 - 👀 I’m interested in ...VLSI
-- 🌱 I’m currently learning ...VLSI Design Verification_Front End
+- 🌱 I’m intrested about ...VLSI Design Verification_Front End
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
